@@ -107,3 +107,10 @@ b) Do women and men spend the same amount of time in working?
 c) Does the time spent on primary needs change when people get older? In other words, how much time elder people allocate to leisure compared to active people?
 
 d) How much time do employed people spend on leisure compared to unemployed people?
+
+## Requirements
+
+-	Python 2.7.17.
+-	PySpark 2.4.7
+-	Apache-cassandra-3.11.11
+-	Openjdk version "1.8.0_312"
